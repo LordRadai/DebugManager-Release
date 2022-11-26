@@ -57,7 +57,7 @@ Damage Colliders Settings:
 * Warp: this will open the warp menu. This will let you bonfireWarp to the desired bonfire
 * Morpheme Editor: Will show up a beta, WIP Morpheme debug window. Usage is explained in detail below.
 
-Character:
+**Character**
 
 	1. Character Info: Will display ChrParam ID, Position and Health of all the loaded entities.
 	
