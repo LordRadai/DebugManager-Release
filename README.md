@@ -51,10 +51,20 @@ Damage Colliders Settings:
   
   	4. Show Damage Info: This will display Hitbox ID (DamageParam ID) of all active hitboxes. Can be useful for modders editing enemy attacks.
 
-* Player Info: this will load the player window in the debug menu, which includes general player informations
-* Target Info: same as player info, but for locked target instead
+* Disable AI: Self explanatory. It makes it so NPCs do not act.
+* Player Info: This will load the player window in the debug menu, which includes general player informations.
+* Target Info: Same as Player Info, but for locked target instead.
 * Warp: this will open the warp menu. This will let you bonfireWarp to the desired bonfire
-* Shop Entities Collisions: this will show the collision capsules for all the currently loaded entities on the map (or in a restriced radius, check DebugManager Entity Draw settings)
-* Show Grab Zone: this will display the grab zones for entities within a certain distance of the player. Distance can be adjusted in DebugManager>Grab Zone Settings
-* Disable AI: this will disable all the AIs
-* Hitbox Draw: this will draw all hitbox chains rendered by the game.
+* Morpheme Editor: Will show up a beta, WIP Morpheme debug window. Usage is explained in detail below.
+
+Character:
+
+	1. Character Info: Will display ChrParam ID, Position and Health of all the loaded entities.
+	
+	2. Character Colliders: Will display the map colliders for all the loeaded entities.
+	
+	3. Grab System: Will display the grab colliders for all the loeaded entities.
+	
+	4. Damage Colliders (Hitbox Display): Will display all the damage colliders created by the game.
+	
+	5. Character Hit Colliders (Hurtbox Display): Will display the Havok hit colliders used to determine whether or not a character is hit by a damage collider.
