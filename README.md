@@ -8,7 +8,7 @@ This tool is not meant to be a cheating tool, all of its features will be disabl
 
 **Installation**
 
-If you don't have Mod Engine or any other dll based mods, then rename DebugManager.dll to dinput8.dll and drag and drop all the files in your Game directory (same level as DarkSoulsII.exe).
+If you don't have Mod Engine or any other DLL based mods, then rename DebugManager.dll to dinput8.dll and drag and drop all the files in your Game directory (same level as DarkSoulsII.exe).
 
 If you use another dll based mod, then you need to follow these steps:
 1) Get LazyLoader by ChurchGuard https://www.nexusmods.com/darksouls3/mods/677
