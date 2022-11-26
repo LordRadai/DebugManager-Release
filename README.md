@@ -75,7 +75,7 @@ This window will allow you to visualize MorphemeEventTrack and edit them. It can
 
 * Target: Entity pointer used for getting Skeleton and StateMachine informations. This has nothing to do with the EventTrack section.
 
-To use the EventTrack section, you need the latest general Cheat Engine table, which you can find in my Discord server https://discord.gg/mBf9mT2
+To use the EventTrack section, you need the latest general Cheat Engine table, which you can find in my CE Discord server https://discord.gg/mBf9mT2
 
 1) Get the EventTrack pointer with Cheat Engine. Go to Advanced Options, right click on "getAnimBase", "Find out what address this instruction accesses" and do something. This will log all the EventTracks played, which are multiple for each action. You usually want the first one that pops up when you do the animation you wish to inspect.
 2) Paste the value inside the Pointer box
