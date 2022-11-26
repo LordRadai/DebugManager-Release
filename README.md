@@ -83,4 +83,4 @@ To use the EventTrack section, you need the latest general Cheat Engine table, w
 
 **DebugManager Discord**
 
-If you need any help, or wish to suggest a feature, or report bugs, then join the DebugManager Discord community at 
+If you need any help, or wish to suggest a feature, or report bugs, then join the DebugManager Discord community at https://discord.gg/WvEt3eb7uN
