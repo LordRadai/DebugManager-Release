@@ -80,3 +80,7 @@ To use the EventTrack section, you need the latest general Cheat Engine table, w
 1) Get the EventTrack pointer with Cheat Engine. Go to Advanced Options, right click on "getAnimBase", "Find out what address this instruction accesses" and do something. This will log all the EventTracks played, which are multiple for each action. You usually want the first one that pops up when you do the animation you wish to inspect.
 2) Paste the value inside the Pointer box
 3) Click Pull Tracks. Clicking this before will crash your game.
+
+**DebugManager Discord**
+
+If you need any help, or wish to suggest a feature, or report bugs, then join the DebugManager Discord community at 
